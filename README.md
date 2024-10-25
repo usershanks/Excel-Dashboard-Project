@@ -68,3 +68,44 @@ Office Mart can use data analytics in several ways to address the above challeng
 - Excel
 - Power Query
 - Power Pivot
+
+### Dashboard View
+
+![excel-dashboard](https://github.com/user-attachments/assets/9c03dfab-0912-42c0-8418-273f3f8a017b)
+
+
+
+### Poject outcome and Practical usecases
+
+
+### 1. **Sales Forecasting**
+   - **Use Case:** Predict demand for each product using historical data and seasonality to optimize inventory levels.
+   - **Benefit:** Fewer stockouts, reduced overstock, improved cash flow.
+
+### 2. **Customer Segmentation**
+   - **Use Case:** Group customers based on purchasing behavior and preferences for targeted marketing.
+   - **Benefit:** Higher conversion rates and efficient marketing spend.
+
+### 3. **Dynamic Pricing**
+   - **Use Case:** Implement data-driven dynamic pricing based on demand, competition, and inventory.
+   - **Benefit:** Maximized revenue and better market competitiveness.
+
+### 4. **Customer Lifetime Value (CLV)**
+   - **Use Case:** Predict CLV to target high-value customers with loyalty programs or special offers.
+   - **Benefit:** Improved customer retention and increased value.
+
+### 5. **Campaign Performance**
+   - **Use Case:** Analyze and A/B test marketing campaigns to optimize performance.
+   - **Benefit:** Better ROI and more effective marketing strategies.
+
+### 6. **Product Recommendation Engine**
+   - **Use Case:** Suggest complementary products to customers based on their browsing and purchase history.
+   - **Benefit:** Increased average order value and customer satisfaction.
+
+### 7. **Churn Prediction**
+   - **Use Case:** Identify at-risk customers and implement retention strategies like personalized offers.
+   - **Benefit:** Reduced churn and higher repeat purchases.
+
+### 8. **Store Location Performance**
+   - **Use Case:** Analyze sales performance across locations to optimize staffing and marketing.
+   - **Benefit:** Increased store profitability and optimized resource allocation.
