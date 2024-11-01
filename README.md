@@ -35,7 +35,7 @@ Office Mart can use data analytics in several ways to address the above challeng
 
 - **Descriptive Analytics:** Understand what has happened by reviewing historical sales data, customer behavior, and product performance. This helps in identifying key trends and patterns.
   
-- **Predictive Analytics:** Anticipate future sales and customer preferences using techniques such as forecasting and predictive modeling. This will help Electronics Hub in demand forecasting, inventory planning, and marketing efforts.
+- **Predictive Analytics:** Anticipate future sales and customer preferences using techniques such as forecasting and predictive modeling. This will help office mart in demand forecasting, inventory planning, and marketing efforts.
   
 - **Prescriptive Analytics:** Provide recommendations for the best course of action based on data insights. For example, recommending optimal pricing, ideal inventory levels, or suggesting the best timing for promotions.
 
